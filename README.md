@@ -1,83 +1,88 @@
 <div align="center">
 
-# Mihir Bommisetty
+<img src="./assets/hero.svg" width="100%" alt="Mihir Bommisetty — software engineer and systems builder. Building systems that earn trust." />
 
-### Software Engineer · Systems Builder · AI & Security Explorer
+<br />
 
-**I build software that has to do more than look impressive — it has to work, scale, and stand up to scrutiny.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbommisetty/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbommisetty/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munnamihir?tab=repositories)
+[![Focus](https://img.shields.io/badge/Focus-AI_%7C_Security_%7C_Systems-2F4365?style=for-the-badge)](https://github.com/munnamihir?tab=repositories)
 
 </div>
 
----
+## Hello — I'm Mihir 👋
 
-### About me
+I'm a software engineer with a master's degree in Computer Science from **Stevens Institute of Technology**. Professionally, I work on complex full-stack applications using **C#, .NET, Angular, and SQL Server**, including modernization, API design, authorization, and usability.
 
-I'm a software engineer with a master's degree in Computer Science from **Stevens Institute of Technology**. My background is in building and modernizing full-stack applications with **C#, .NET, Angular, and SQL Server**.
+Outside work, I explore the intersection of **AI, security, reliability, and physical systems**. I care about the parts that take an idea beyond a demo: testability, clear boundaries, observable behavior, and honest evidence.
 
-Outside that work, I experiment with systems that connect **AI, security, reliability, and the physical world**. I like taking ambitious ideas past the demo stage: designing the architecture, building the tooling, testing the edge cases, and making the results reproducible.
+> **Engineering philosophy:** evidence over assumptions · clear interfaces over complexity · measurable behavior over buzzwords.
 
-> **My engineering bias:** evidence over assumptions, clear interfaces over complexity, and measurable behavior over buzzwords.
+## What I'm building
 
-### Selected work
+<div align="center">
+  <img src="./assets/project-landscape.svg" width="100%" alt="A visual landscape of six engineering projects spanning autonomous safety, fleet intelligence, cryptography, secure communication, physical objects, and AI agents." />
+</div>
 
-| Project | What I'm building |
+| Project | Why it exists |
 | :--- | :--- |
-| **[Aplomb](https://github.com/munnamihir/aplomb)** | An independent conformance and defect-detection harness for autonomous-driving safety-distance calculations. |
-| **[FleetMind](https://github.com/munnamihir/fleetmind)** | Reliability intelligence for EV and industrial fleets, combining telemetry pipelines, predictive models, diagnostic evidence, and human-controlled decisions. |
-| **[cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc)** | A codebase cryptography scanner that produces CycloneDX cryptographic bills of materials and flags post-quantum migration risks. |
-| **[QuantumMail](https://github.com/munnamihir/QuantumMail-v2)** | Client-side encrypted communication integrated into familiar email workflows, with per-recipient key wrapping. |
-| **[ORYBIT](https://github.com/munnamihir/orybit)** | An exploration of persistent digital identities, permissions, memory, and APIs for physical objects. |
-| **[NemoClaw Community](https://github.com/munnamihir/nemoclaw-community)** | Reference examples for inspectable agent workflows with explicitly constrained runtimes and integrations. |
+| 🚘 **[Aplomb](https://github.com/munnamihir/aplomb)** | Independently check autonomous-driving safety-distance calculations against reference behavior and targeted defect cases. |
+| ⚙️ **[FleetMind](https://github.com/munnamihir/fleetmind)** | Turn fleet telemetry into predictive reliability signals, diagnostic evidence, and human-controlled operational decisions. |
+| 🔐 **[cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc)** | Discover cryptography in source code and output CycloneDX cryptographic bills of materials for post-quantum readiness. |
+| ✉️ **[QuantumMail](https://github.com/munnamihir/QuantumMail-v2)** | Integrate client-side, per-recipient encrypted communication into familiar email workflows. |
+| 🧩 **[ORYBIT](https://github.com/munnamihir/orybit)** | Explore persistent identity, capabilities, ownership, memory, and APIs for physical objects. |
+| 🤖 **[NemoClaw Community](https://github.com/munnamihir/nemoclaw-community)** | Demonstrate inspectable AI-agent patterns with explicit runtime and integration boundaries. |
 
-### Technologies I work with
+## Where I work in the stack
 
-**Languages**
+<div align="center">
+  <img src="./assets/systems-map.svg" width="100%" alt="An illustrative systems architecture: experience layer, service layer, data and event layer, and assurance layer." />
+</div>
+
+### Technologies & tools
+
+**Languages & frameworks**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Application engineering**
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Data & infrastructure**
+**Data, tooling & delivery**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-### What I'm exploring next
+## My engineering loop
 
-- **AI infrastructure and accelerated computing:** the systems that make intelligent software faster, more efficient, and more reliable.
-- **Trustworthy agents:** bounded permissions, observable actions, evaluation, and verifiable outcomes.
-- **Safety and security engineering:** independent validation, post-quantum readiness, and systems that fail predictably.
+<div align="center">
+  <img src="./assets/engineering-loop.svg" width="100%" alt="Engineering loop: understand, design, implement, validate, iterate." />
+</div>
 
-### How I think about building
+## What I'm exploring next
 
-```text
-Understand the problem.
-Build the smallest honest version.
-Measure what actually happens.
-Break it on purpose.
-Improve it. Repeat.
-```
+- **AI infrastructure and accelerated computing** — making intelligent software more efficient, dependable, and useful.
+- **Trustworthy agents** — bounded permissions, observable actions, evaluation, and verifiable outcomes.
+- **Safety and security engineering** — independent validation, post-quantum readiness, and predictable failure behavior.
 
 ---
 
 <div align="center">
 
-**Interested in systems engineering, AI tooling, developer infrastructure, or security?**
+### Let's build something that matters.
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/mihirbommisetty/) · [Browse my repositories](https://github.com/munnamihir?tab=repositories)
+Interested in **systems engineering, AI tooling, developer infrastructure, or security**?
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/mihirbommisetty/)** · **[Browse repositories](https://github.com/munnamihir?tab=repositories)**
+
+<sub>Infographics are original SVG assets in <code>assets/</code>. Project diagrams are conceptual, not performance claims.</sub>
 
 </div>
