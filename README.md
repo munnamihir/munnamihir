@@ -1,88 +1,179 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Mihir Bommisetty — software engineer and systems builder. Building systems that earn trust." />
+<img src="./assets/hero.svg" width="100%" alt="Mihir Bommisetty - systems engineer. System online, tech interface." />
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbommisetty/)
+[![GitHub](https://img.shields.io/badge/EXPLORE-Repositories-1A263A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munnamihir?tab=repositories)
+![Followers](https://img.shields.io/github/followers/munnamihir?style=for-the-badge&label=GitHub%20followers&color=3c8dbd)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbommisetty/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munnamihir?tab=repositories)
-[![Focus](https://img.shields.io/badge/Focus-AI_%7C_Security_%7C_Systems-2F4365?style=for-the-badge)](https://github.com/munnamihir?tab=repositories)
+<sub><code>[ SYSTEMS ]</code> · <code>[ SECURITY ]</code> · <code>[ AI INFRASTRUCTURE ]</code> · <code>[ TRUSTWORTHY SOFTWARE ]</code></sub>
+
+**[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
 
 </div>
 
-## Hello — I'm Mihir 👋
+## `> whoami`
 
-I'm a software engineer with a master's degree in Computer Science from **Stevens Institute of Technology**. Professionally, I work on complex full-stack applications using **C#, .NET, Angular, and SQL Server**, including modernization, API design, authorization, and usability.
+I'm **Mihir Bommisetty** — a software engineer with a master's in Computer Science from **Stevens Institute of Technology**.
 
-Outside work, I explore the intersection of **AI, security, reliability, and physical systems**. I care about the parts that take an idea beyond a demo: testability, clear boundaries, observable behavior, and honest evidence.
+I build full-stack systems professionally using **C# / .NET, Angular, and SQL Server**, with a focus on APIs, authorization, modernization, and accessibility. Outside my day job, I experiment with **AI agents, reliability engineering, software security, and systems that connect the physical and digital worlds**.
 
-> **Engineering philosophy:** evidence over assumptions · clear interfaces over complexity · measurable behavior over buzzwords.
-
-## What I'm building
+> **My design constraint:** if a system makes an important claim, I want to know what evidence backs it up.
 
 <div align="center">
-  <img src="./assets/project-landscape.svg" width="100%" alt="A visual landscape of six engineering projects spanning autonomous safety, fleet intelligence, cryptography, secure communication, physical objects, and AI agents." />
+<img src="./assets/telemetry-strip.svg" width="100%" alt="Eleven curated public projects, four engineering focus areas, three delivery modes" />
 </div>
 
-| Project | Why it exists |
-| :--- | :--- |
-| 🚘 **[Aplomb](https://github.com/munnamihir/aplomb)** | Independently check autonomous-driving safety-distance calculations against reference behavior and targeted defect cases. |
-| ⚙️ **[FleetMind](https://github.com/munnamihir/fleetmind)** | Turn fleet telemetry into predictive reliability signals, diagnostic evidence, and human-controlled operational decisions. |
-| 🔐 **[cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc)** | Discover cryptography in source code and output CycloneDX cryptographic bills of materials for post-quantum readiness. |
-| ✉️ **[QuantumMail](https://github.com/munnamihir/QuantumMail-v2)** | Integrate client-side, per-recipient encrypted communication into familiar email workflows. |
-| 🧩 **[ORYBIT](https://github.com/munnamihir/orybit)** | Explore persistent identity, capabilities, ownership, memory, and APIs for physical objects. |
-| 🤖 **[NemoClaw Community](https://github.com/munnamihir/nemoclaw-community)** | Demonstrate inspectable AI-agent patterns with explicit runtime and integration boundaries. |
+## 📊 Portfolio telemetry
 
-## Where I work in the stack
+These are **two pie charts about an explicitly curated set of 11 public repositories**. They are *not* percentages of my time, skill, or contributions. See the exact categorization in the expandable panel below.
 
-<div align="center">
-  <img src="./assets/systems-map.svg" width="100%" alt="An illustrative systems architecture: experience layer, service layer, data and event layer, and assurance layer." />
-</div>
+<table>
+<tr>
+<td width="50%"><img src="./assets/focus-donut.svg" width="100%" alt="Repository focus pie chart" /></td>
+<td width="50%"><img src="./assets/build-modes-donut.svg" width="100%" alt="Repository delivery modes pie chart" /></td>
+</tr>
+</table>
 
-### Technologies & tools
+<details>
+<summary><b>🧮 Inspect the data behind both pies (11 repositories)</b></summary>
 
-**Languages & frameworks**
+| Repository | Focus | Delivery mode |
+| --- | --- | --- |
+| [cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc) | Security / privacy | Validation / research |
+| [QuantumMail-v2](https://github.com/munnamihir/QuantumMail-v2) | Security / privacy | Product / tooling |
+| [CipherGuard](https://github.com/munnamihir/cipherguard) | Security / privacy | Product / tooling |
+| [PNEUMA](https://github.com/munnamihir/pneuma-db) | Security / privacy | Protocols / platforms |
+| [Aplomb](https://github.com/munnamihir/aplomb) | Reliability / safety | Validation / research |
+| [FleetMind](https://github.com/munnamihir/fleetmind) | Reliability / safety | Product / tooling |
+| [Shift-aware scheduling](https://github.com/munnamihir/shift-aware-scheduling) | Reliability / safety | Validation / research |
+| [NemoClaw Community](https://github.com/munnamihir/nemoclaw-community) | AI / automation | Protocols / platforms |
+| [LinkedIn Fixer](https://github.com/munnamihir/linkedin-fixer) | AI / automation | Product / tooling |
+| [ORYBIT](https://github.com/munnamihir/orybit) | Platforms / tools | Protocols / platforms |
+| [SaaS Radar](https://github.com/munnamihir/Saas-radar) | Platforms / tools | Product / tooling |
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+These groupings are an editorial lens on a curated sample. The repository set is not an exhaustive catalog of my account.
 
-**Data, tooling & delivery**
+</details>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+### 📡 Live language fingerprint
 
-## My engineering loop
+<img src="./assets/language-donut.svg" width="100%" alt="GitHub language share among 11 curated public repositories" />
 
-<div align="center">
-  <img src="./assets/engineering-loop.svg" width="100%" alt="Engineering loop: understand, design, implement, validate, iterate." />
-</div>
+<sub>When initialized, this panel refreshes **every Monday** from GitHub's repository language API. Language share measures **source-code bytes**, not experience or proficiency. The panel stays in a clearly marked “awaiting first sync” state until [the workflow](./.github/workflows/refresh-telemetry.yml) is run in this profile repository.</sub>
 
-## What I'm exploring next
+## 🕹️ Select a mission
 
-- **AI infrastructure and accelerated computing** — making intelligent software more efficient, dependable, and useful.
-- **Trustworthy agents** — bounded permissions, observable actions, evaluation, and verifiable outcomes.
-- **Safety and security engineering** — independent validation, post-quantum readiness, and predictable failure behavior.
+<div align="center"><img src="./assets/project-landscape.svg" width="100%" alt="Six highlighted public engineering projects" /></div>
+
+| `MISSION` | `SYSTEM` | `WHAT IT DOES` |
+| :--- | :--- | :--- |
+| `01 // SAFETY` | **[Aplomb](https://github.com/munnamihir/aplomb)** | Independent conformance testing for autonomous-driving safety computations. |
+| `02 // FLEETS` | **[FleetMind](https://github.com/munnamihir/fleetmind)** | Evidence-based predictive reliability and fleet decision workflows. |
+| `03 // CRYPTO` | **[cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc)** | Find cryptographic primitives and generate a CycloneDX CBOM. |
+| `04 // PRIVACY` | **[QuantumMail](https://github.com/munnamihir/QuantumMail-v2)** | Client-side encrypted email flows and per-recipient key wrapping. |
+| `05 // OBJECTS` | **[ORYBIT](https://github.com/munnamihir/orybit)** | Persistent identity, ownership and capabilities for physical objects. |
+| `06 // AGENTS` | **[NemoClaw Community](https://github.com/munnamihir/nemoclaw-community)** | Inspectable agent workflows with explicit execution boundaries. |
+
+## 🧰 Tech stack
+
+<div align="center"><img src="./assets/tech-matrix.svg" width="100%" alt="Technology map across interfaces, services, data and events, and assurance" /></div>
+
+**Languages:** `C#` `TypeScript` `JavaScript` `Python` `SQL`  
+**Frameworks:** `.NET` `Angular` `React` `Next.js` `FastAPI`  
+**Infrastructure & tooling:** `SQL Server` `PostgreSQL` `Docker` `GitHub Actions` `Kafka / Redpanda`  
+**Engineering interests:** `Authentication / Authorization` `AI Agents` `Safety Validation` `Post-Quantum Security` `Observability`
+
+## 🔭 Architecture thinking
+
+<div align="center"><img src="./assets/request-trace.svg" width="100%" alt="An authenticated request goes through a policy gate, domain services, data and audit evidence" /></div>
+
+<details>
+<summary><b>↳ View the deeper request-flow blueprint (expand)</b></summary>
+
+The diagram below is an *illustrative* architecture pattern, not a schematic of a specific employer's proprietary system.
+
+```mermaid
+flowchart LR
+    A[Browser / client] --> B{Authenticated?}
+    B -- No --> X[401 / login]
+    B -- Yes --> C{Authorized for resource?}
+    C -- No --> Y[403 / denied]
+    C -- Yes --> D[Domain API]
+    D --> E[(Data / event store)]
+    D --> F[Audit / telemetry]
+    E --> G[Response DTO]
+    G --> H[Accessible UI]
+```
+
+**Design rule:** authentication establishes identity; authorization gates access to the *specific* resource. Logs and tests make failure paths observable.
+
+</details>
+
+## 🧪 Open the lab console
+
+<details>
+<summary><b>▸ <code>cat /lab/security.md</code> — cryptography and trust</b></summary>
+
+My public experiments include [cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc), [QuantumMail](https://github.com/munnamihir/QuantumMail-v2), and [PNEUMA](https://github.com/munnamihir/pneuma-db).
+
+Questions I keep coming back to: **Who can decrypt? Where are keys? What happens after compromise? Can we verify the claim independently?**
+
+</details>
+
+<details>
+<summary><b>▸ <code>cat /lab/reliability.md</code> — reality vs. simulation</b></summary>
+
+[Aplomb](https://github.com/munnamihir/aplomb) investigates what ordinary testing misses in driving safety monitors; [FleetMind](https://github.com/munnamihir/fleetmind) explores explainable fleet reliability decisions. I care about **reference behavior, reproducible tests, and human control**.
+
+</details>
+
+<details>
+<summary><b>▸ <code>cat /lab/agents.md</code> — AI systems with boundaries</b></summary>
+
+[NemoClaw Community](https://github.com/munnamihir/nemoclaw-community) explores constrained agent workflows. My interests extend to **evaluation, tool permissions, observable actions, and accelerated inference infrastructure**.
+
+</details>
+
+<details>
+<summary><b>▸ <code>sudo reveal-philosophy</code> — easter egg</b></summary>
+
+```text
+$ systemctl status curiosity
+● curiosity.service — active (running)
+  Debugging      : relentless
+  Assumptions    : challenged
+  Evidence       : required
+  Final boss     : edge cases
+
+> BUILD SMALL. VERIFY OFTEN. SHIP RESPONSIBLY.
+```
+
+If you opened this, we probably enjoy the same kind of engineering conversations.
+
+</details>
+
+## 🔁 Build → validate → iterate
+
+<div align="center"><img src="./assets/engineering-loop.svg" width="100%" alt="Engineering loop: understand, design, implement, validate and iterate" /></div>
+
+## 🛰️ Currently exploring
+
+- AI infrastructure and efficient inference workloads.
+- Defensible AI agents: tools, permission boundaries, traceability, and evaluation.
+- Security and safety tooling that makes hidden failures visible.
 
 ---
 
 <div align="center">
 
-### Let's build something that matters.
+## 🤝 Establish connection
 
-Interested in **systems engineering, AI tooling, developer infrastructure, or security**?
+**I'm interested in ambitious engineering problems where trust, systems performance, and real-world constraints matter.**
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/mihirbommisetty/)** · **[Browse repositories](https://github.com/munnamihir?tab=repositories)**
+[![Connect](https://img.shields.io/badge/LET'S_TALK-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirbommisetty/)
+[![Source](https://img.shields.io/badge/VIEW_THE_CODE-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munnamihir?tab=repositories)
 
-<sub>Infographics are original SVG assets in <code>assets/</code>. Project diagrams are conceptual, not performance claims.</sub>
+<sub>`END OF TRANSMISSION` · Built with Markdown, SVG, Mermaid, GitHub Actions and a curiosity problem.</sub>
 
 </div>
