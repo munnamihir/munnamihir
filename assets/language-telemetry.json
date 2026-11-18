@@ -1,4 +1,33 @@
 {
-  "status": "not yet initialized",
-  "note": "Run the refresh-telemetry workflow on GitHub after uploading this package. No synthetic language data is displayed."
+  "updated_utc": "2026-11-18 UTC",
+  "owner": "munnamihir",
+  "repositories": [
+    "cryptoscan-pqc",
+    "QuantumMail-v2",
+    "cipherguard",
+    "pneuma-db",
+    "aplomb",
+    "fleetmind",
+    "shift-aware-scheduling",
+    "nemoclaw-community",
+    "linkedin-fixer",
+    "orybit",
+    "Saas-radar"
+  ],
+  "raw_language_bytes": {
+    "Python": 1661264,
+    "TypeScript": 956647,
+    "JavaScript": 372196,
+    "CSS": 299325,
+    "HTML": 176550,
+    "Shell": 93763,
+    "Dockerfile": 4030,
+    "PLpgSQL": 3260,
+    "Go Template": 693,
+    "C#": 234,
+    "Go": 181,
+    "Makefile": 156,
+    "Procfile": 66
+  },
+  "total_language_bytes": 3568365
 }
