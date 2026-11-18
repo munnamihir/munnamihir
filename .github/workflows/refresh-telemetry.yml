@@ -1,6 +1,11 @@
 name: Refresh profile telemetry
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh-telemetry.yml'
+      - 'scripts/refresh_telemetry.py'
   workflow_dispatch:
   schedule:
     - cron: '17 6 * * 1'
