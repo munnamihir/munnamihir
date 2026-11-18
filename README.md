@@ -8,7 +8,7 @@
 
 <sub><code>[ SYSTEMS ]</code> · <code>[ SECURITY ]</code> · <code>[ AI INFRASTRUCTURE ]</code> · <code>[ TRUSTWORTHY SOFTWARE ]</code></sub>
 
-**[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
+**[VOXA LAB](#-voxa-signal-lab--build-your-own-evidence-passport)** &nbsp;•&nbsp; **[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
 
 </div>
 
@@ -19,6 +19,28 @@ I'm **Mihir Bommisetty** — a software engineer with a master's in Computer Sci
 I build full-stack systems professionally using **C# / .NET, Angular, and SQL Server**, with a focus on APIs, authorization, modernization, and accessibility. Outside my day job, I experiment with **AI agents, reliability engineering, software security, and systems that connect the physical and digital worlds**.
 
 > **My design constraint:** if a system makes an important claim, I want to know what evidence backs it up.
+
+## 🧬 VOXA Signal Lab — Build your own Evidence Passport
+
+<a href="https://munnamihir.github.io/voxa-studio/"><img src="./assets/voxa-lab.svg" width="100%" alt="VOXA Signal Lab — create your own evidence passport from public GitHub repository metadata. Click to launch." /></a>
+
+**A visitor experiment, not another static portfolio section.** Enter your GitHub username, inspect an explorable repository constellation, switch evidence contexts, and export a shareable SVG card or transparent JSON evidence manifest.
+
+[![Launch VOXA Lab](https://img.shields.io/badge/LAUNCH-VOXA_SIGNAL_LAB-58EFD1?style=for-the-badge&labelColor=0C1728&logo=github)](https://munnamihir.github.io/voxa-studio/)
+[![See an example](https://img.shields.io/badge/VIEW-MY_EVIDENCE-758CFF?style=for-the-badge&labelColor=0C1728)](https://munnamihir.github.io/voxa-studio/?user=munnamihir)
+[![Research](https://img.shields.io/badge/EXPLORE-VOXA_RESEARCH-9B8AFF?style=for-the-badge&labelColor=0C1728)](https://voxa-wine-alpha.vercel.app/)
+
+<details>
+<summary><b>↳ What happens when you launch the lab?</b></summary>
+
+1. Type any public GitHub username (no sign-in needed).
+2. Inspect real repository links and a language pie chart sourced from GitHub's public API.
+3. Choose a context: security, AI, reliability, or infrastructure. The context filter uses transparent keywords, not an opaque score.
+4. Export your Evidence Passport as SVG and a metadata snapshot as JSON; copy a shareable link.
+
+**Important:** This is a standalone, VOXA-inspired evidence explorer, **not** a verified VOXA credential, identity check, vouch, or contextual trust computation. Public GitHub activity alone cannot verify a person's identity or skill.
+
+</details>
 
 <div align="center">
 <img src="./assets/telemetry-strip.svg" width="100%" alt="Eleven curated public projects, four engineering focus areas, three delivery modes" />
@@ -68,6 +90,7 @@ These groupings are an editorial lens on a curated sample. The repository set is
 
 | `MISSION` | `SYSTEM` | `WHAT IT DOES` |
 | :--- | :--- | :--- |
+| `00 // VOXA` | **[VOXA Signal Lab](https://munnamihir.github.io/voxa-studio/)** | Generate an inspectable public-evidence card from any GitHub username; no trust score. |
 | `01 // SAFETY` | **[Aplomb](https://github.com/munnamihir/aplomb)** | Independent conformance testing for autonomous-driving safety computations. |
 | `02 // FLEETS` | **[FleetMind](https://github.com/munnamihir/fleetmind)** | Evidence-based predictive reliability and fleet decision workflows. |
 | `03 // CRYPTO` | **[cryptoscan-pqc](https://github.com/munnamihir/cryptoscan-pqc)** | Find cryptographic primitives and generate a CycloneDX CBOM. |
