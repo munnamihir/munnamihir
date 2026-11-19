@@ -8,7 +8,7 @@
 
 <sub><code>[ SYSTEMS ]</code> · <code>[ SECURITY ]</code> · <code>[ AI INFRASTRUCTURE ]</code> · <code>[ TRUSTWORTHY SOFTWARE ]</code></sub>
 
-**[VOXA LAB](#-voxa-signal-lab--build-your-own-evidence-passport)** &nbsp;•&nbsp; **[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
+**[PROOF QUEST](https://munnamihir.github.io/voxa-studio/proof-quest/)** &nbsp;•&nbsp; **[VOXA LAB](#-voxa-signal-lab--build-your-own-evidence-passport)** &nbsp;•&nbsp; **[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
 
 </div>
 
@@ -41,6 +41,17 @@ I build full-stack systems professionally using **C# / .NET, Angular, and SQL Se
 **Important:** This is a standalone, VOXA-inspired evidence explorer, **not** a verified VOXA credential, identity check, vouch, or contextual trust computation. Public GitHub activity alone cannot verify a person's identity or skill.
 
 </details>
+
+### 🕵️ VOXA Proof Quest — investigate a claim
+
+<a href="https://munnamihir.github.io/voxa-studio/proof-quest/"><img src="./assets/proof-quest-banner.svg" width="100%" alt="VOXA Proof Quest. Four investigations, twelve evidence artifacts, three possible verdicts. Play the free evidence investigation game." /></a>
+
+**A playable security-and-trust investigation.** Don't just scroll through my projects: open four fictional case files, inspect the source artifacts, and decide if each claim is **supported**, **not established**, or **contradicted**. Earn an investigator rank and download a personalized SVG game badge.
+
+[![Play Proof Quest](https://img.shields.io/badge/PLAY-VOXA_PROOF_QUEST-73ECD2?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/proof-quest/)
+[![Open Evidence Passport](https://img.shields.io/badge/BUILD-EVIDENCE_PASSPORT-8D99FF?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/)
+
+<sub>Free browser game • No sign-in or tracking • Fully fictional cases • Game achievement ≠ VOXA verification or professional credential.</sub>
 
 <div align="center">
 <img src="./assets/telemetry-strip.svg" width="100%" alt="Eleven curated public projects, four engineering focus areas, three delivery modes" />
