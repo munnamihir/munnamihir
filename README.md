@@ -46,12 +46,24 @@ I build full-stack systems professionally using **C# / .NET, Angular, and SQL Se
 
 <a href="https://munnamihir.github.io/voxa-studio/proof-quest/"><img src="./assets/proof-quest-banner.svg" width="100%" alt="VOXA Proof Quest. Four investigations, twelve evidence artifacts, three possible verdicts. Play the free evidence investigation game." /></a>
 
-**A playable security-and-trust investigation.** Don't just scroll through my projects: open four fictional case files, inspect the source artifacts, and decide if each claim is **supported**, **not established**, or **contradicted**. Earn an investigator rank and download a personalized SVG game badge.
+**Three playable protocols, eight fictional case files.** Investigate AI benchmarks, API authorization, release provenance, digital signatures, deployment controls, and contextual trust. Open every clue, choose a supported verdict, inspect the final debrief, and create a personalized SVG **game achievement** (never a professional trust credential).
 
-[![Play Proof Quest](https://img.shields.io/badge/PLAY-VOXA_PROOF_QUEST-73ECD2?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/proof-quest/)
+[![Today's Challenge](https://img.shields.io/badge/DAILY-NEW_CASE_DROP-73ECD2?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/proof-quest/?mode=daily)
+[![Expert Protocol](https://img.shields.io/badge/EXPERT-SIX_CASES-9A91FF?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/proof-quest/?mode=expert)
+[![Original Four](https://img.shields.io/badge/CORE-ORIGINAL_FOUR-4D9BBE?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/proof-quest/)
 [![Open Evidence Passport](https://img.shields.io/badge/BUILD-EVIDENCE_PASSPORT-8D99FF?style=for-the-badge&labelColor=102638)](https://munnamihir.github.io/voxa-studio/)
 
-<sub>Free browser game • No sign-in or tracking • Fully fictional cases • Game achievement ≠ VOXA verification or professional credential.</sub>
+<sub>Daily question sets rotate at 00:00 UTC · Game history stays in your browser · No sign-in · All evidence is fictional · Achievement ≠ VOXA credential.</sub>
+
+<details>
+<summary><b>↳ Explore what happens inside a Proof Quest mission</b></summary>
+
+- **Core Protocol** — the original four claim-verification investigations (100 max points).
+- **Daily Drop** — three deterministic cases for each UTC date (75 max points); share the same challenge with a friend.
+- **Expert Protocol** — six cases with deeper authorization, cryptography, reproducibility, and release-control reasoning (150 max points).
+- **Your debrief** — inspect the correct evidence-supported verdicts, lessons, and game-only achievement card. Completion history is local to your browser, not a verified leaderboard.
+
+</details>
 
 <div align="center">
 <img src="./assets/telemetry-strip.svg" width="100%" alt="Eleven curated public projects, four engineering focus areas, three delivery modes" />
