@@ -8,7 +8,7 @@
 
 <sub><code>[ SYSTEMS ]</code> · <code>[ SECURITY ]</code> · <code>[ AI INFRASTRUCTURE ]</code> · <code>[ TRUSTWORTHY SOFTWARE ]</code></sub>
 
-**[PROOF QUEST](https://munnamihir.github.io/voxa-studio/proof-quest/)** &nbsp;•&nbsp; **[VOXA LAB](#-voxa-signal-lab--build-your-own-evidence-passport)** &nbsp;•&nbsp; **[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
+**[CRYPTO ESCAPE](https://munnamihir.github.io/voxa-studio/crypto-escape/)** &nbsp;•&nbsp; **[PROOF QUEST](https://munnamihir.github.io/voxa-studio/proof-quest/)** &nbsp;•&nbsp; **[VOXA LAB](#-voxa-signal-lab--build-your-own-evidence-passport)** &nbsp;•&nbsp; **[PROJECTS](#-select-a-mission)** &nbsp;•&nbsp; **[TELEMETRY](#-portfolio-telemetry)** &nbsp;•&nbsp; **[STACK](#-tech-stack)** &nbsp;•&nbsp; **[LAB](#-open-the-lab-console)** &nbsp;•&nbsp; **[CONTACT](#-establish-connection)**
 
 </div>
 
@@ -64,6 +64,17 @@ I build full-stack systems professionally using **C# / .NET, Angular, and SQL Se
 - **Your debrief** — inspect the correct evidence-supported verdicts, lessons, and game-only achievement card. Completion history is local to your browser, not a verified leaderboard.
 
 </details>
+
+### 🔐 Quantum Crypto Escape Room — unlock the future archive
+
+<a href="https://munnamihir.github.io/voxa-studio/crypto-escape/"><img src="./assets/crypto-escape-banner.svg" width="100%" alt="VOXA Quantum Crypto Escape Room. Four rooms, twelve artifacts, and a fictional migration mission. Click to play." /></a>
+
+**A playable post-quantum migration lab.** Open four escape rooms and inspect 12 fictional artifacts, identify risks involving ECDHE and RSA, evaluate standardized **ML-KEM (FIPS 203)** and **ML-DSA (FIPS 204)** migration choices, then ship a staged rollout plan. Export a stylish SVG game achievement and an explainable JSON migration exercise report.
+
+[![Enter Crypto Escape](https://img.shields.io/badge/PLAY-QUANTUM_CRYPTO_ESCAPE-A599FF?style=for-the-badge&labelColor=0D1C2C)](https://munnamihir.github.io/voxa-studio/crypto-escape/)
+[![Explore cryptoscan](https://img.shields.io/badge/EXPLORE-CRYPTOSCAN__PQC-6FEDD8?style=for-the-badge&labelColor=0D1C2C)](https://github.com/munnamihir/cryptoscan-pqc)
+
+<sub>Fictional educational game · No real cryptography or login · No tracking · Game badges are not certifications, verified skills, or VOXA credentials.</sub>
 
 <div align="center">
 <img src="./assets/telemetry-strip.svg" width="100%" alt="Eleven curated public projects, four engineering focus areas, three delivery modes" />
